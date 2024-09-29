@@ -62,7 +62,3 @@ This project is licensed under the **MIT License**.
 
 ## Author
 **Jiya Mittal**
-
----
-
-This `README` covers all major functionalities and usage instructions, providing a comprehensive guide for users interacting with your DegenToken contract. Let me know if you'd like to adjust or add anything further!
